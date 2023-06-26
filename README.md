@@ -1,12 +1,5 @@
-# Assignment 2 (OSN)
+# Bash Implementation in C
 ## Akshit Sharma
-## 2021101029
-### LINUX SHELL implementation in C
-
-# Assignment 3 MID SUBMISSION 
-> done first 3 specifications
-> assumed that the >,< or >> symbols are seperated from names and commands by white space
-> did not use execvp for implementing self coded functions
 
 ## Run Shell:
 ```bash
