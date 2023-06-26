@@ -1,0 +1,22 @@
+quit
+cd abcd/
+clear
+cd -
+quit
+echo hello > 1.txt
+cat 1.txt
+rm 1.txt
+clear
+quit
+sleep 10
+sleep 3 &
+quit
+sleep 10 &
+fg 1
+sleep 2 &
+sleep 100 &
+sleep 2 &
+sleep 34 &
+quit
+ 34 &
+
